@@ -6,4 +6,4 @@ title: Hackathon Simplon Charleville
 
 # Hackathon Simplon Charleville
 
-Les 21, 22 et 23 Septembre
+Les 21, 22 et 23 Septembre 2020
