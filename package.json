@@ -1,0 +1,22 @@
+{
+  "name": "hackardennes-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackArdennes/website.git"
+  },
+  "author": "Alexandre Perret",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HackArdennes/website/issues"
+  },
+  "homepage": "https://github.com/HackArdennes/website#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}
