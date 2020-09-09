@@ -6,7 +6,7 @@ layout: main.html
 
 # Qui sommes nous
 
-Bienvenue !
+Bienvenue à tous !
 
 ## Nos events
 
